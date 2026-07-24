@@ -33,6 +33,8 @@ If you haven't already done so, follow the instructions in [this tutorial](https
 
 Next, install the dependencies.
 
+savepoint
+
 ```bash
 npm install
 ```
